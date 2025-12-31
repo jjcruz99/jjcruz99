@@ -4,79 +4,73 @@ Hola soy John Cruz
 <hr>
 
 <div>
-  <h2 style= "font-size:2rem, text-aling:left"> Sobre mí </h2>
-  <pre style= "font-size:1.5rem, text-aling:left">
-  🧪 QA Analyst con enfoque técnico y base en desarrollo Full Stack Java
-  🏦 Experiencia en sistemas bancarios y validación de procesos críticos del negocio
-  📐 Diseño y ejecución de casos de prueba enfocados en reglas de negocio
-  🔍 Testing manual de APIs REST y Web Services SOAP (SoapUI)
-  ⚙️ Conocimientos en programación Java y Python(POO)
-  🤖 Formación práctica en automatización de pruebas con Cypress, Selenium y Postman
-  🗄️ Validación de datos mediante consultas en bases de datos con Transact-SQL (T-SQL)
-  📊 Elaboración de reportes de pruebas y gestión de defectos
-  🔁 Trabajo en entornos ágiles bajo metodología Scrum
-  🚀 Interés en evolucionar hacia QA Automation y SDET
-  </pre>
+  <h2 style="font-size:2rem; text-align:left;">🧪 Sobre mí</h2>
+
+  <ul style="font-size:1.6rem; text-align:left; line-height:1.7; list-style:none; padding-left:0;">
+    <li>🧪 QA Analyst con enfoque técnico y base en desarrollo Full Stack Java</li>
+    <li>🏦 Experiencia en sistemas bancarios y validación de procesos críticos del negocio</li>
+    <li>📐 Diseño y ejecución de casos de prueba enfocados en reglas de negocio</li>
+    <li>🔍 Testing manual de APIs REST y Web Services SOAP (SoapUI)</li>
+    <li>⚙️ Conocimientos en programación Java y Python (POO)</li>
+    <li>🤖 Formación práctica en automatización de pruebas con Cypress, Selenium y Postman</li>
+    <li>🗄️ Validación de datos mediante consultas en bases de datos con Transact-SQL (T-SQL)</li>
+    <li>📊 Elaboración de reportes de pruebas y gestión de defectos</li>
+    <li>🔁 Trabajo en entornos ágiles bajo metodología Scrum</li>
+    <li>🚀 Interés en evolucionar hacia QA Automation y SDET</li>
+  </ul>
 </div>
 
 <hr>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de programacion
+<div>
 
-<p align="center"> 
-  &emsp;
-  <a"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-    &emsp; 
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
+  <h2 style="text-align:left;">🛠️ Tech Stack</h2>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend 
-<p align="center"> 
-  &emsp; 
-  <a> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a>
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a>
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a > 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
+  <h2 style="text-align:left; font-size:1.4rem;">Lenguajes</h2>
+  <p style="text-align:left;">
+    <img src="https://skillicons.dev/icons?i=java" width="42" /> Java &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=python" width="42" /> Python &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=javascript" width="42" /> JavaScript
+  </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-</p>
+  <h2 style="text-align:left; font-size:1.4rem;">Frameworks de Automatización</h2>
+  <p style="text-align:left;">
+    <img src="https://skillicons.dev/icons?i=selenium" width="42" /> Selenium &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=cypress" width="42" /> Cypress &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=playwright" width="42" /> Playwright
+  </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-</p>
+  <h2 style="text-align:left; font-size:1.4rem;">Desarrollo Web</h2>
+  <p style="text-align:left;">
+    <img src="https://skillicons.dev/icons?i=spring" width="42" /> Spring Boot &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=html" width="42" /> HTML &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" width="42" /> CSS &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=javascript" width="42" /> JavaScript
+  </p>
+
+  <h2 style="text-align:left; font-size:1.4rem;">Herramientas</h2>
+  <p style="text-align:left;">
+    <img src="https://skillicons.dev/icons?i=git" width="42" /> Git &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" width="42" /> GitHub &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=postman" width="42" /> Postman &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=soapui" width="42" /> SoapUI
+  </p>
+
+  <h2 style="text-align:left; font-size:1.4rem;">Bases de Datos</h2>
+  <p style="text-align:left;">
+    <img src="https://skillicons.dev/icons?i=mysql" width="42" /> MySQL &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=sqlserver" width="42" /> SQL Server
+  </p>
+
+  <h2 style="text-align:left; font-size:1.4rem;">IDEs y Entornos</h2>
+  <p style="text-align:left;">
+    <img src="https://skillicons.dev/icons?i=idea" width="42" /> IntelliJ IDEA &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=pycharm" width="42" /> PyCharm &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode" width="42" /> VS Code
+  </p>
+
+</div>
+
 
 
 
