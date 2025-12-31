@@ -1,20 +1,24 @@
-<h1 align="center">
-#Hola soy John Cruz
-
+<h1 style="font-size:3rem, text-aling:center">
+Hola soy John Cruz
+</h1>
 <hr>
 
-<pre>
-🧪 QA Analyst con enfoque técnico y base en desarrollo Full Stack Java
-🏦 Experiencia en sistemas bancarios y validación de procesos críticos del negocio
-📐 Diseño y ejecución de casos de prueba enfocados en reglas de negocio
-🔍 Testing manual de APIs REST y Web Services SOAP (SoapUI)
-⚙️ Conocimientos en programación Java y Python(POO)
-🤖 Formación práctica en automatización de pruebas con Cypress, Selenium y Postman
-🗄️ Validación de datos mediante consultas en bases de datos con Transact-SQL (T-SQL)
-📊 Elaboración de reportes de pruebas y gestión de defectos
-🔁 Trabajo en entornos ágiles bajo metodología Scrum
-🚀 Interés en evolucionar hacia QA Automation y SDET
-</pre>
+<div>
+  <h2 style= "font-size:2rem, text-aling:left"> Sobre mí </h2>
+  <pre style= "font-size:1.5rem, text-aling:left">
+  🧪 QA Analyst con enfoque técnico y base en desarrollo Full Stack Java
+  🏦 Experiencia en sistemas bancarios y validación de procesos críticos del negocio
+  📐 Diseño y ejecución de casos de prueba enfocados en reglas de negocio
+  🔍 Testing manual de APIs REST y Web Services SOAP (SoapUI)
+  ⚙️ Conocimientos en programación Java y Python(POO)
+  🤖 Formación práctica en automatización de pruebas con Cypress, Selenium y Postman
+  🗄️ Validación de datos mediante consultas en bases de datos con Transact-SQL (T-SQL)
+  📊 Elaboración de reportes de pruebas y gestión de defectos
+  🔁 Trabajo en entornos ágiles bajo metodología Scrum
+  🚀 Interés en evolucionar hacia QA Automation y SDET
+  </pre>
+</div>
+
 <hr>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de programacion
