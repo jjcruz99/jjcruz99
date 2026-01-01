@@ -28,7 +28,7 @@ Hola soy John Cruz
 
   <h2 style="text-align:left; font-size:1.4rem;">Lenguajes</h2>
   <p style="text-align:left;">
-    <img src="https://skillicons.dev/icons?i=java" width="42" /> Java &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Light.svg" width="42" /> Java &nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=python" width="42" /> Python &nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=javascript" width="42" /> JavaScript
   </p>
@@ -37,7 +37,7 @@ Hola soy John Cruz
   <p style="text-align:left;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Cypress-Light.svg" width="42" /> Cypress &nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=selenium" width="42" /> Selenium &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=playwright" width="42" /> Playwright
+    <img src="https://skillicons.dev/icons?i=nodejs" width="42" /> Playwright
   </p>
 
   <h2 style="text-align:left; font-size:1.4rem;">Desarrollo Web</h2>
@@ -58,8 +58,8 @@ Hola soy John Cruz
 
   <h2 style="text-align:left; font-size:1.4rem;">Bases de Datos</h2>
   <p style="text-align:left;">
-    <img src="https://skillicons.dev/icons?i=mysql" width="42" /> MySQL &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=sqlserver" width="42" /> SQL Server
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Light.svg" width="42" /> MySQL &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=database" width="42" /> SQL Server
   </p>
 
   <h2 style="text-align:left; font-size:1.4rem;">IDEs y Entornos</h2>
