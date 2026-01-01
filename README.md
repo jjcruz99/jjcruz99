@@ -1,6 +1,9 @@
-<h1 style="font-size:3rem, text-aling:center">
-Hola soy John Cruz
+<h1 style="font-size:3rem; text-align:center;">
+  Hola, soy <span style="color:#58a6ff;">John Cruz</span>
 </h1>
+<h3 style="text-align:center; font-weight:400;">
+  QA Analyst | Base en Desarrollo Full Stack Java
+</h3>
 <hr>
 
 <div>
@@ -18,7 +21,8 @@ Hola soy John Cruz
     <li>🔁 Trabajo en entornos ágiles bajo metodología Scrum</li>
     <li>🚀 Interés en evolucionar hacia QA Automation y SDET</li>
   </ul>
-  <a href="https://jjcruz99.github.io/portafolio/" target="_blank" rel="noopener noreferrer">Conocer más</a>
+  <a href="https://jjcruz99.github.io/portafolio/" target="_blank" rel="noopener noreferrer">💼Portafolio</a>
+  <a href="https://www.linkedin.com/in/john-jairo-cruz-qa-automation/">🔎Linkedin</a>
 </div>
 
 <hr>
