@@ -22,7 +22,7 @@
     <li>🚀 Interés en evolucionar hacia QA Automation y SDET</li>
   </ul>
   <a href="https://jjcruz99.github.io/portafolio/" target="_blank" rel="noopener noreferrer">💼Portafolio</a>
-  <a href="https://www.linkedin.com/in/john-jairo-cruz-qa-automation/">🔎Linkedin</a>
+  <a href="https://www.linkedin.com/in/john-jairo-cruz-qa-automation/" target="_blank" rel="noopener noreferrer">   🔎Linkedin</a>
 </div>
 
 <hr>
