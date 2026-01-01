@@ -2,7 +2,7 @@
   Hola, soy <span style="color:#58a6ff;">John Cruz</span>
 </h1>
 <h3 style="text-align:center; font-weight:400;">
- Ingeniero Electrónico| QA Analyst 
+ Ingeniero Electrónico aplicando rigor sistémico a la calidad del software.
 </h3>
 <hr>
 
