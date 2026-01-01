@@ -35,8 +35,8 @@ Hola soy John Cruz
 
   <h2 style="text-align:left; font-size:1.4rem;">Frameworks de Automatización</h2>
   <p style="text-align:left;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Cypress-Light.svg" width="42" /> Cypress &nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=selenium" width="42" /> Selenium &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=cypress" width="42" /> Cypress &nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=playwright" width="42" /> Playwright
   </p>
 
