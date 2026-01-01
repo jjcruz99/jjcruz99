@@ -6,7 +6,7 @@ Hola soy John Cruz
 <div>
   <h2 style="font-size:2rem; text-align:left;">🧪 Sobre mí</h2>
 
-  <ul style="font-size:1.6rem; text-align:left; line-height:1.7; list-style:none; padding-left:0;">
+  <ul style="font-size:1.8rem; text-align:left; line-height:1.7; list-style:none; padding-left:0;">
     <li>🧪 QA Analyst con enfoque técnico y base en desarrollo Full Stack Java</li>
     <li>🏦 Experiencia en sistemas bancarios y validación de procesos críticos del negocio</li>
     <li>📐 Diseño y ejecución de casos de prueba enfocados en reglas de negocio</li>
@@ -18,6 +18,7 @@ Hola soy John Cruz
     <li>🔁 Trabajo en entornos ágiles bajo metodología Scrum</li>
     <li>🚀 Interés en evolucionar hacia QA Automation y SDET</li>
   </ul>
+  <a href="https://jjcruz99.github.io/portafolio/" target="_blank" rel="noopener noreferrer">Conocer más</a>
 </div>
 
 <hr>
@@ -52,14 +53,8 @@ Hola soy John Cruz
   <p style="text-align:left;">
     <img src="https://skillicons.dev/icons?i=git" width="42" /> Git &nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=github" width="42" /> GitHub &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=postman" width="42" /> Postman &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=soapui" width="42" /> SoapUI
-  </p>
-
-  <h2 style="text-align:left; font-size:1.4rem;">Bases de Datos</h2>
-  <p style="text-align:left;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Light.svg" width="42" /> MySQL &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=database" width="42" /> SQL Server
+    <img src="https://skillicons.dev/icons?i=postman" width="42" /> Postman y SoapUI &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Light.svg" width="42" /> MySQL y SQL Server &nbsp;&nbsp;
   </p>
 
   <h2 style="text-align:left; font-size:1.4rem;">IDEs y Entornos</h2>
