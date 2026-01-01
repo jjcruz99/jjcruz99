@@ -2,7 +2,7 @@
   Hola, soy <span style="color:#58a6ff;">John Cruz</span>
 </h1>
 <h3 style="text-align:center; font-weight:400;">
-  QA Analyst | Base en Desarrollo Full Stack Java
+ Ingeniero Electrónico| QA Analyst 
 </h3>
 <hr>
 
